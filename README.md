@@ -1,6 +1,6 @@
 ## mcrawler
 
-A basic webcrawler that harvests "<a></a>" href links.
+A basic webcrawler that harvests '<a>' href links.
 
 requires a single parameter of the domain to be harvested.
 The format of the site has to be a full url, example.
